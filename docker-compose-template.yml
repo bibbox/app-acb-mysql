@@ -25,7 +25,7 @@ services:
     depends_on:
       - §§INSTANCE-app-data
 
-  §§INSTANCE-app-adminder:
+  §§INSTANCE-app-adminer:
     image: adminer
     container_name: §§INSTANCE-app-adminer
     restart: unless-stopped

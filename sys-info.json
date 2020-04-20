@@ -1,4 +1,4 @@
 {
-  runningcontainers:["§§INSTANCE-app-mysql-db", "§§INSTANCE-app-adminder"],
+  runningcontainers:["§§INSTANCE-app-mysql-db", "§§INSTANCE-app-adminer"],
   supportcontainers:["§§INSTANCE-app-data"]    
 }
